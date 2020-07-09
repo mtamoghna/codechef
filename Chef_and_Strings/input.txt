@@ -1,0 +1,5 @@
+1. First line will contain T, number of testcases. Then the testcases follow.
+
+2. The first line of each test case contains N, the number of times Chef has to pluck a string
+
+3. The second line of each test case contains N space separated integers - S1, S2, …, SN, where Si is the number of the ith string Chef has to pluck.
